@@ -1,1 +1,6 @@
-plan.txt
+Layout
+========
+1.Add main div container with width 700px, with center margin.
+2.Add another 3 DIV containers in the main div with left floated.
+3.Add padding to the main div.
+4.Add another div that will hold the paragraphs with clearfix.
