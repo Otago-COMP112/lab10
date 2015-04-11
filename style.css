@@ -6,7 +6,7 @@ body{
 
 .main-content{
 	width: 700px;
-	background-color: none;
+	background-color: transparent;
 	margin: 0 auto;
 	color: #4ca68d;
 }
